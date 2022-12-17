@@ -1,0 +1,13 @@
+.container {
+  background-color: orange;
+}
+
+.container img {
+  padding: 15px;
+  background-color: palegoldenrod;
+  max-height: 220px;
+  max-width: 220px;
+  width: auto;
+  height: auto;
+}
+
