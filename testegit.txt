@@ -1,7 +1,3 @@
 teste git
 
-<<<<<<< HEAD
-teste 2
-=======
-teste branch
->>>>>>> staging
+teste branch 2
